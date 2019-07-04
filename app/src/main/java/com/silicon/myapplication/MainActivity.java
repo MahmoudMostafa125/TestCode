@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         ///
         SubEmb subEmb =new SubEmb();
         subEmb.haha();
-        subEmb.aVoid();
+      /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  subEmb.aVoid();
     }
 
     void updateResults(String s) {
